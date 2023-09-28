@@ -1,6 +1,8 @@
 # dotnetapi
 testing dotnet api programming
 
+endpoint https://<serviceName>.azurewebsites.net/weatherforecast
+
 ## creation
 
 This repo is created using
